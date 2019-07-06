@@ -4,3 +4,5 @@ Example process for determining voter registration potential.  Example area is L
 resources/az_ld_26 is voter file data per TargetSmart voter file (geographic/demographic only- no PII)
 
 resources/BlockGr is the latest 5 year ACS CVAP data by block group available here: https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap.html
+
+For Step 2, importing geopandas is neccessary (https://stackoverflow.com/questions/41009215/importerror-no-module-named-geopandas)

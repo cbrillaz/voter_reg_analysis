@@ -8,4 +8,3 @@ resources/BlockGr is the latest 5 year ACS CVAP data by block group available he
 For Step 2, importing geopandas is neccessary (https://stackoverflow.com/questions/41009215/importerror-no-module-named-geopandas)
 
 Finally, for visualizations at the block group level, shape files are available here: https://www2.census.gov/geo/tiger/TIGER2018/BG/
-![AZ](Images/az_ld_26.png)

@@ -1,5 +1,10 @@
 # Example method for determining "voter registration potential" within a given geographic area.  
-The following documents an example process for determining voter registration potential. In this example I look at Legislative District 26 in Arizona (ASU). The file 1- Match Datasets.ipynb uses an extract of the voterbase file along with American Community Survey CVAP data released at the census block level.  After pulling both data sources I merge the two the and compare the results.  The /Output directory contains the census block group file. 
+
+![Statewide Map](https://raw.githubusercontent.com/cbrillaz/voter_reg_analysis/master/Images/statewide.png)
+
+The following begins to document a process for determining voter registration potential. In this example I look at Legislative District 26 in Arizona (ASU) as well as statewide estimates
+
+The file 1- Match Datasets.ipynb uses an extract of the voterbase file along with American Community Survey CVAP data released at the census block level.  After pulling both data sources I merge the two the and compare the results.  The /Output directory contains the census block group file. 
 
 The directory resources/az_ld_26 is voter file data per TargetSmart voter file (geographic/demographic only- no PII)
 
@@ -9,4 +14,3 @@ For step 2 i took a crack at creating a map of LD 26 registration. If you would 
 
 Finally, for shape files at the block group level, I obtained those here: https://www2.census.gov/geo/tiger/TIGER2018/BG/
 
-![Statewide Map](https://raw.githubusercontent.com/cbrillaz/voter_reg_analysis/master/Images/statewide.png)

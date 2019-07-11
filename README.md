@@ -8,3 +8,5 @@ The directory resources/BlockGr is the latest 5 year ACS CVAP data by block grou
 For step 2 i took a crack at creating a map of LD 26 registration. If you would like to create the map yourself importing geopandas is neccessary (https://stackoverflow.com/questions/41009215/importerror-no-module-named-geopandas) Otherwise an image of the map is available in the /Images directory
 
 Finally, for shape files at the block group level, I obtained those here: https://www2.census.gov/geo/tiger/TIGER2018/BG/
+
+![Statewide Map](https://raw.githubusercontent.com/cbrillaz/voter_reg_analysis/master/images/statewide.png)

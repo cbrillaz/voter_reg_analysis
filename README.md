@@ -9,4 +9,4 @@ For step 2 i took a crack at creating a map of LD 26 registration. If you would 
 
 Finally, for shape files at the block group level, I obtained those here: https://www2.census.gov/geo/tiger/TIGER2018/BG/
 
-![Statewide Map](https://raw.githubusercontent.com/cbrillaz/voter_reg_analysis/master/images/statewide.png)
+![Statewide Map](https://raw.githubusercontent.com/cbrillaz/voter_reg_analysis/master/Images/statewide.png)
